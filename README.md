@@ -19,7 +19,10 @@ python main.py
 Go to `http://127.0.0.1:5000`
 
 ### 4. Technology Stacks
+- Python
 - flask
 - flask-sqlalchemy
+- HTML
+- CSS
 - bootstrap
 
